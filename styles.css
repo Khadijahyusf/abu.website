@@ -1,0 +1,334 @@
+body
+{
+margin-left: 120px;
+font-family: 'Montserrat'
+}
+header
+{
+width: 50%;
+border: 5px;
+display: flex;
+}
+.class
+{
+    margin-top: 0px;
+}
+.fa
+{
+    size:12px;
+    border:5px; 
+    margin: 5px;
+    padding: 5px;
+    width:16.7%;
+}
+#bbb
+{
+text-decoration: none;
+}
+.para0
+{
+width:16.7%;
+border: 10px;
+font-size: 12px;
+margin: 5px;
+text-decoration: none;
+color: blue;
+
+}
+.para0:hoover
+{
+    color: blue; 
+    text-decoration: none;  
+}
+.para1
+{
+width:16.7%;
+border: 5px;
+font-size: 12px;
+margin: 5px;
+text-decoration: none;
+color: black;
+}
+.para1:hover
+{
+    color: blue;
+    text-decoration: underline;
+}
+.para2
+{
+width:16.7%;
+border: 5px;
+font-size: 12px;
+margin: 50px;
+text-decoration: none;
+color: black;
+padding: 16px;
+cursor: pointer;
+}
+.para2:hover
+{
+    color: blue;
+    text-decoration: underline;   
+}
+#header
+{
+    float: left 50px;
+}
+.hr1
+{ 
+    transform: rotate(90deg);
+    display: block;
+    height: 5px;
+    width: 20px;
+    position: relative;
+    top: 50%;
+    left: 0;
+    background: blue;
+    max-width: 500px;
+    margin: 10px auto;
+    text-align: center;
+}
+#abu
+{
+color: black;
+}
+#section1
+{
+width: 50%;
+border: 5px;
+margin: 5px;
+display: flex; 
+}
+#edu
+{
+text-decoration: none;
+font-size: 20px;
+color: blue;
+margin-bottom: 5px;
+}
+#edu:hover
+{
+text-decoration: underline;
+}
+.edu
+{
+    margin: 0px;
+    padding: 0px;
+}
+.div1
+{
+    color: blue;
+    font-size: 20px;
+    margin-bottom:5px;
+}
+.aa
+{
+    text-decoration: none;
+}
+.aa:hover
+{
+    text-decoration: underline;
+}
+.cert
+{
+    font-size: 15px;
+    color: black; 
+    margin-top: 5px; 
+}
+.article
+{
+width: 100%;
+border: 5px;
+margin: 5px;
+}
+.section2
+{
+width: 50%;
+border: 5px;
+margin: 5px;
+}
+.img
+{
+border: 5px;
+margin: 1px;
+width: 100%;
+display: flex;
+color: blue;
+text-decoration: none;
+border-radius: 5px;
+}
+.img2
+{
+    border: 5px;
+    margin: 2px;
+    width: 100%;
+    display: flex;
+    color: blue;
+    text-decoration: none;
+    border-radius: 5px;
+
+}
+.pic
+{
+    text-decoration: none;
+}
+.vc
+{
+border: 5px;
+margin: 1px;
+width: 100%;
+border-radius: 5px;
+}
+.w3-card
+{
+    margin:5px;
+    text-align: center;
+    width:32%;
+}
+.vcc
+{
+    width:100%;
+    margin: 3px;
+    border: 5px;
+    border-radius: 5px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+#section3
+{
+    width: 50%;
+    border: 5px;
+    margin: 5px;
+}
+.portal
+{
+    border: 5px;
+    color: black;
+    text-decoration: none;
+    font-size: 15px;
+}
+.portal:hover
+{
+text-decoration: none;
+}
+.portal2
+{
+    border: 5px;
+    color: blue;
+    text-decoration: none;
+    font-size: 19px;
+    margin-bottom: 0px;
+}
+.portal3
+{
+    font-size: 12px;
+    margin: 0;
+}
+#section4
+{
+    width: 50%;
+    border: 1px solid;
+    margin: 5px;
+    border-radius: 8px;
+    margin-top: 40px;
+}
+hr
+{
+    margin: 2px;
+    font-weight: bold;
+}
+.h3
+{
+    font-weight: bold;
+    margin: 10px;
+    margin-left: 10px;
+}
+.people
+{
+    margin-left: 10px;
+}
+#section5
+{
+    width: 50%;
+    border: 5px;
+    padding: 10px;
+    margin-top: 20px;
+}
+.sec5
+{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    line-height: 1;
+}
+.po
+{
+    text-decoration: none;
+    margin-left: 0px;
+}
+.port
+{
+    text-decoration: none;
+    color: blue;
+    margin-left: 0px;
+}
+.port:hover
+{
+    text-decoration: underline;
+}
+#section6
+{
+    width: 50%;
+    border: 5px;
+    margin: 5px;
+}
+.bus
+{
+    text-decoration: none;
+    color: blue;
+    font-size: 20px;
+    margin-top: 0px;
+}
+.spgs
+{
+    color:black;
+    text-decoration: none;
+    margin-top: 0px;
+}
+#section7
+{
+    width: 50%;
+    border: 5px;
+    margin: 5px;
+}
+#section8
+{
+    width: 50%;
+    border: 5px;
+    margin: 5px;
+}
+#section9
+{
+    width: 50%;
+    border: 5px;
+    margin: 5px;
+}
+.pagination 
+{
+    display: inline-block;
+    border: 2px solid;
+    color: blueviolet;
+    background-color: blueviolet;
+    opacity: 0.8;
+}
+  
+.pagination  a
+{
+    color: black;
+    float: left;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+.pagination:hover
+{
+    text-decoration: underline;
+}
